@@ -1,0 +1,9 @@
+{
+  "nodes": [
+    "http://node1.sokchain.com:5000",
+	"http://192.168.1.168:9000",
+	"http://192.168.1.168:5000",
+    "http://node2.sokchain.com:5000",
+    "http://node3.sokchain.com:5000"
+  ]
+}
