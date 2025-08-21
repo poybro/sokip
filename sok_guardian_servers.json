@@ -6,7 +6,11 @@
     },
     {
       "name": "SOK Server - Staging US",
-      "url": "http://192.168.1.168:9001"
+      "url": "http://192.168.1.168:9000"
+    },
+    {
+      "name": "SOK Server - Ubun",
+      "url": "http://192.168.1.14:9000"
     },
     {
       "name": "SOK Server - Local Dev",
