@@ -1,6 +1,3 @@
-http://trangweb1.com
-https://trangweb2.org
-http://trangweb3.net
 https://bansi.tuongtomau.com.vn/
 https://thietkenha.sok.io.vn/
 https://keochongnut.sok.io.vn/
