@@ -2,10 +2,12 @@
   "nodes": [
     "http://sokchain.ddns.net:5000",
     "http://192.168.1.123:5001",
+    "http://192.168.1.219:5000",
     "http://sokchain.ddns.net:9000"
   ]
 
 }
+
 
 
 
