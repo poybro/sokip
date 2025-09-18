@@ -3,6 +3,9 @@
     "SO24a387597d2c7fdc79a2fba590ee0a73e655746bc8392c1520578ce8e2ba0e9aK": {
       "last_known_address": "http://192.168.1.169:5000"
     },
+    "SO24a387597d2c7fdc79a2fba590ee0a73e655746bc8392c1520578ce8e2ba0e9aK": {
+      "last_known_address": "http://192.168.1.169:9000"
+    },
     "SO319c6b742e475942499594bc34d4f5b6431e35584d60417eef6ab3518627087bK": {
       "last_known_address": "http://sokchain.ddns.net:9000"
     },
@@ -12,6 +15,7 @@
   }
 
 }
+
 
 
 
