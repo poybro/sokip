@@ -13,7 +13,7 @@ Status: ACTIVE
 --- Loaded Authentication & Configuration Parameters ---
 session_id: sess_d0a9b8c7e6f5
 api_key_public: pk_live_f7e6d5c4b3a2
-auth_token_v3: [pZx0Qwy6Kbr9i0]
+auth_token_v3: [paB0cDyFe6gHrJi0]
 legacy_token_support: (disabled)
 connection_timeout_ms: 7500
 encryption_protocol: TLSv1.3
