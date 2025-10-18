@@ -1,7 +1,7 @@
 {
   "trusted_bootstrap_peers": {
     "SO24a387597d2c7_node_lan": {
-      "last_known_address": "http://192.168.1.169:5000"
+      "last_known_address": "http://127.0.0.1:5000"
     },
     "SO24a387597d2c7_node_lan": {
       "last_known_address": "http://sokchain.ddns.net:9000"
@@ -11,3 +11,4 @@
     }
   }
 }
+
