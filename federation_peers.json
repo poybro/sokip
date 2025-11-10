@@ -1,6 +1,7 @@
 {
   "peer_endpoints": [
     "http://sokchain.ddns.net:9000",
-    "http://192.168.1.123:9001"
+    "http://108.181.162.253:9000"
   ]
 }
+
