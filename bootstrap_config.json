@@ -4,6 +4,9 @@
       "last_known_address": "http://108.181.162.253:5000"
     },
     "SO24a387597d2c7_node_lan": {
+      "last_known_address": "http://108.181.162.253:9000"
+    },
+    "SO24a387597d2c7_node_lan": {
       "last_known_address": "http://sokchain.ddns.net:9000"
     },
     "SO319c6b742e47_node_wan": {
@@ -11,6 +14,7 @@
     }
   }
 }
+
 
 
 
