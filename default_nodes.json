@@ -1,10 +1,11 @@
 {
   "nodes": [
     "https://sokchain.ddns.net",
-    "https://sokchain.ddns.net:9000"
+    "https://sokchain.ddns.net:5000"
   ]
 
 }
+
 
 
 
