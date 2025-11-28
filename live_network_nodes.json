@@ -1,6 +1,8 @@
 {
   "active_nodes": [
     "http://sokchain.ddns.net:9000",
+     "http://108.181.162.253:5000",
     "http://sokchain.ddns.net:5000"
   ]
 }
+
