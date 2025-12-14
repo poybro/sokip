@@ -3,11 +3,15 @@
     "SO24a387597d2c7_node_lan": {
       "last_known_address": "http://sokchain.ddns.net:5000"
     },
+    "SO24a387597d2c7_sub_node": {
+      "last_known_address": "http://sokchain.sytes.net:5559"
+    },
     "SO319c6b742e47_node_wan": {
       "last_known_address": "https://sokchain.ddns.net"
     }
   }
 }
+
 
 
 
