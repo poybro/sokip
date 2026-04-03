@@ -1,4 +1,8 @@
 {
+  "trusted_bootstrap_peers": {
+    "SO24a387597d2c7_node_lan": {
+      "last_known_address": "https://node1.sok.onl"
+    },
     "SO24a387597d3c7_node_lan": {
       "last_known_address": "https://sok.onl"
     },
