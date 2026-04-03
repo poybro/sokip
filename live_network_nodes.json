@@ -5,6 +5,8 @@
     "http://sok.onl:5000",
     "http://node1.sok.onl:5000",
     "http://node1.sok.onl:9000",
-    "https://node1.sok.onl"
+    "https://node1.sok.onl",
+    "http://14.191.93.10:5000",
+    "http://14.191.93.10:9000"
   ]
 }
