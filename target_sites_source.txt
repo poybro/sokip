@@ -48,3 +48,7 @@ https://astraea.sok.onl/
 https://hebe.sok.onl/
 https://eris.sok.onl/
 https://phobos.sok.onl/
+https://aio.sok.onl/all/
+https://genesis.sok.onl/all/
+https://tech.sok.onl/all/
+https://diennuocsos.sok.onl/all/
