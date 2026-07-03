@@ -27,6 +27,7 @@ https://hypnos.sok.onl/
 https://triton.sok.onl/
 https://gaia.sok.onl/
 https://uranus.sok.onl/
+https://neptune.sok.onl/
 https://cronus.sok.onl/
 https://rhea.sok.onl/
 https://oceanus.sok.onl/
@@ -50,3 +51,4 @@ https://eris.sok.onl/
 https://phobos.sok.onl/
 https://jupiter.sok.onl/
 https://juno.sok.onl/
+https://minerva.sok.onl/
