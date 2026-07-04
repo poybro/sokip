@@ -52,3 +52,6 @@ https://phobos.sok.onl/
 https://jupiter.sok.onl/
 https://juno.sok.onl/
 https://minerva.sok.onl/
+https://odin.sok.onl
+https://loki.sok.onl
+https://thor.sok.onl
