@@ -1,6 +1,8 @@
 {
   "active_nodes": [
     "http://sok/onl",
-    "http://sok.onl:9000"
+    "http://sok.onl:9000",
+    "http://14.191.93.160:5000",
+    "http://14.191.93.160:9000"
   ]
 }
